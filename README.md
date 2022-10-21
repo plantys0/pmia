@@ -18,6 +18,8 @@
 - IoT & Industrial automation - Messaging queue Rabbit MQ. PLC, SCADA, HMI, DCS, etc.
 - Cybersecurity – Threat Modelling, Azure Security Center, Blackduck, Polaris, CheckMarx.
 
+Email me at contact@plantys.net.
+
 Thanks for visiting!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pmia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ps672890)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](plantys.net)  
