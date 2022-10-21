@@ -12,7 +12,7 @@
 - Azure – Azure Data Factory, Synapse Analytics, Azure API Management and Gateway, Logic Apps. Azure Functions, OAuth authentication, Building MVC, Razor portals on web. Azure cost management.
 - SQL – Advanced database and query design. C# development using Entity Framework and Dapper. Use of Code-First, Data-First or Model-First approaches. SSIS.
 - Front-End – Angular, HTML5, JavaScript.
-- GIS - Leafletjs and Bing maps API.
+- GIS - Leafletjs, Bing maps API & ArcGIS.
 - CI/CD - Azure pipelines and YAML.
 - Business Intelligence & Integration – Data profiling. Power Platform. SAP integration.
 - IoT & Industrial automation - Messaging queue Rabbit MQ. PLC, SCADA, HMI, DCS, etc.
