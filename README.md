@@ -1,11 +1,21 @@
 #### Hi there 👋, I'm Pradeep
-#### IT leader, Full-stack developer & Cybersecurity expert
 
-Based in Sydney, AUSTRALIA
+- 👯 I’m looking for development projects using any of Microsoft Technologies - Azure, C#, SQL, Power Platform, etc.
 
-Skills: Azure, C#, SQL Server, GIS, JavaScript and Power Platform specialist.
+🚀 About Me
+•	Strategic and results-oriented IT leader adept in all aspects of application lifecycle: business development, technology selection, project management, programming, and cybersecurity compliance. 
+•	Full-stack developer on Azure, C#, SQL Server, GIS and Power Platform. Adept in cybersecurity, agile methodology, test-driven approach, and CI/CD.
 
-- 👯 I’m looking to collaborate on Interesting projects 
+👨‍💻 Skills & Experience:
+✅ C# - ASP.NET/.NET Core, WebAPI 2.0, MVC/MVVM patterns, LINQ, Dependency Injection, Repository & Unit of Work pattern-based development. Microservices architecture and event driven architecture.
+✅ Azure – Azure Data Factory, Synapse Analytics, Azure API Management and Gateway, Logic Apps. Azure Functions, OAuth authentication, Building MVC, Razor portals on web. Azure cost management.
+✅ SQL – Advanced database and query design. C# development using Entity Framework and Dapper. Use of Code-First, Data-First or Model-First approaches. SSIS.
+✅ Front-End – Angular, HTML5, JavaScript.
+✅ GIS - Leafletjs and Bing maps API.
+✅ CI/CD - Azure pipelines and YAML.
+✅ Business Intelligence & Integration – Data profiling. Power Platform. SAP integration.
+✅ IoT & Industrial automation - Messaging queue Rabbit MQ. PLC, SCADA, HMI, DCS, etc. 
+✅ Cybersecurity – Threat Modelling, Azure Security Center, Blackduck, Polaris, CheckMarx.
 
 Thanks for visiting!
 
@@ -14,3 +24,6 @@ Thanks for visiting!
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pmia)  
 
 ![Profile views](https://gpvc.arturio.dev/pmia)  
+
+
+
