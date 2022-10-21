@@ -3,8 +3,8 @@
 - 👯 I’m looking for development projects using any of Microsoft Technologies - Azure, C#, SQL, Power Platform, etc.
 
 🚀 About Me
-•	Strategic and results-oriented IT leader adept in all aspects of application lifecycle: business development, technology selection, project management, programming, and cybersecurity compliance. 
-•	Full-stack developer on Azure, C#, SQL Server, GIS and Power Platform. Adept in cybersecurity, agile methodology, test-driven approach, and CI/CD.
+- Strategic and results-oriented IT leader adept in all aspects of application lifecycle: business development, technology selection, project management, programming, and cybersecurity compliance.
+- Full-stack developer on Azure, C#, SQL Server, GIS and Power Platform. Adept in cybersecurity, agile methodology, test-driven approach, and CI/CD.
 
 👨‍💻 Skills & Experience:
 ✅ C# - ASP.NET/.NET Core, WebAPI 2.0, MVC/MVVM patterns, LINQ, Dependency Injection, Repository & Unit of Work pattern-based development. Microservices architecture and event driven architecture.
@@ -14,7 +14,7 @@
 ✅ GIS - Leafletjs and Bing maps API.
 ✅ CI/CD - Azure pipelines and YAML.
 ✅ Business Intelligence & Integration – Data profiling. Power Platform. SAP integration.
-✅ IoT & Industrial automation - Messaging queue Rabbit MQ. PLC, SCADA, HMI, DCS, etc. 
+✅ IoT & Industrial automation - Messaging queue Rabbit MQ. PLC, SCADA, HMI, DCS, etc.
 ✅ Cybersecurity – Threat Modelling, Azure Security Center, Blackduck, Polaris, CheckMarx.
 
 Thanks for visiting!
