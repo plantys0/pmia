@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pradeep
 #### IT leader, Full-stack developer & Cybersecurity expert
-![IT leader, Full-stack developer & Cybersecurity expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![IT leader, Full-stack developer & Cybersecurity expert]
 
 Based in Sydney, AUSTRALIA
 
